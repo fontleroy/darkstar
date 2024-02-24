@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3fb6d2e70cbd44f810e75d9301efc8, type: 3}
+  m_Name: CustomImagePattern
+  m_EditorClassIdentifier: 
+  patternName: Custom Image Pattern
+  patternMethod: 1
+  pattern: {fileID: 2800000, guid: 04f7e15b830b4064180c917c1200b535, type: 3}
+  patternSize: 20
+  xStep: 37
+  yStep: 36
+  angleStyle: 1
+  increaseAngle: 0
+  influenceRotationByParent: 0
+  initialMinimumRotation: 0
+  initialMaximumRotation: 0
+  minimumRotationStep: 0
+  maximumRotationStep: 0
+  clampMinimumRotation: 0
+  clampMaximumRotation: 0
+  numberOfProjectiles: 14
+  shootCooldown: 1.3
+  spawnDistanceFromEmitter: 0
+  spinAmount: 50
+  invertSpinDirections: 0
+  spinAccelerationAmount: 0
+  useMaxSpinAmount: 0
+  maxSpinAmount: 35.92
+  projectileDuration: 3
+  applyRandomness: 0
+  useSpread: 0
+  minSpread: 0
+  maxSpread: 0
+  idleTime: 0
+  damagePerHit: 10
+  projectileSpeed: 5
+  adaptativeSpeed: 0
+  setMaxProjectileSpeed: 0
+  maxProjectileSpeed: 5
+  projectileAcceleration: 0
+  projectileSizeMultiplierOverTime: -1
+  changeDirections: 0
+  changeDirectionTimer: 1
+  vertexNumber: 0
+  extentsSize: 0.1
+  shotSFX: {fileID: 8300000, guid: bd95d8f51187d454780bbcf80ccb3bbe, type: 3}
+  pitchVariationSFX: 0.15

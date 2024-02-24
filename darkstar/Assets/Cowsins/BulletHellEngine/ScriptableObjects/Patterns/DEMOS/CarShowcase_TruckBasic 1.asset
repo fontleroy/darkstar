@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3fb6d2e70cbd44f810e75d9301efc8, type: 3}
+  m_Name: CarShowcase_TruckBasic 1
+  m_EditorClassIdentifier: 
+  patternName: Basic 8 shots
+  patternMethod: 0
+  pattern: {fileID: 0}
+  patternSize: 10
+  xStep: 37
+  yStep: 36
+  angleStyle: 0
+  increaseAngle: 0
+  influenceRotationByParent: 1
+  initialMinimumRotation: 3
+  initialMaximumRotation: -3
+  minimumRotationStep: 3
+  maximumRotationStep: -3
+  clampMinimumRotation: 0
+  clampMaximumRotation: 180
+  numberOfProjectiles: 3
+  shootCooldown: 0.4
+  spawnDistanceFromEmitter: 1
+  spinAmount: 0
+  invertSpinDirections: 0
+  spinAccelerationAmount: 0
+  useMaxSpinAmount: 0
+  maxSpinAmount: 35.92
+  projectileDuration: 5
+  applyRandomness: 0
+  useSpread: 0
+  minSpread: 0
+  maxSpread: 0
+  idleTime: 0
+  damagePerHit: 1
+  projectileSpeed: 12
+  adaptativeSpeed: 0
+  setMaxProjectileSpeed: 0
+  maxProjectileSpeed: 2
+  projectileAcceleration: 0
+  projectileSizeMultiplierOverTime: -0.1
+  changeDirections: 0
+  changeDirectionTimer: 1
+  changeDirectionRadius: 2
+  vertexNumber: 0
+  extentsSize: 0.1
+  shotSFX: {fileID: 0}
+  pitchVariationSFX: 0.15
